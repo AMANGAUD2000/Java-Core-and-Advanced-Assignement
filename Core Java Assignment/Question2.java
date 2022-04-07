@@ -37,9 +37,9 @@ public class Question2 {
     public static void main(String[] args) { 
         EmployeeDetail emp1 = new EmployeeDetail();
         emp1.setName("Aman Gaud");
-        emp1.setEmpId("22563");
-        emp1.setEmail("aman.gaud@quantiphi.com");
-        emp1.setPhone("7987188230");
+        emp1.setEmpId("225609832232442343243");
+        emp1.setEmail("aman.gaud@starkindustries");
+        emp1.setPhone("798718823430");
 
         System.out.println("Name : "+emp1.getName()+ "\nEmployee Id : "+emp1.getEmp_Id()+ "\nEmail : "+emp1.getEmail()+ "\nPhone Number : "+emp1.getPhone());
     }
